@@ -1,0 +1,102 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "Sobre",
+        "skills": "Habilidades",
+        "projects": "Projetos",
+        "experience": "Experiência",
+        "contact": "Contato"
+    },
+    "hero": {
+        "greeting": "Olá, meu nome é",
+        "name": "Patryck Moulaz",
+        "title": "Desenvolvedor Full-Stack .NET",
+        "description": "Especializado em criar soluções escaláveis e robustas. Atualmente desenvolvendo sistemas governamentais de compliance e vigilância sanitária no Rio de Janeiro.",
+        "viewProjects": "Ver Projetos",
+        "contact": "Entre em Contato",
+        "downloadCV": "Baixar CV",
+        "scrollDown": "Role para baixo"
+    },
+    "about": {
+        "title": "Sobre Mim",
+        "subtitle": "Conheça um pouco mais sobre minha trajetória e experiência",
+        "description1": "Sou um desenvolvedor full-stack apaixonado por tecnologia e resolução de problemas complexos. Com mais de 5 anos de experiência, venho construindo soluções robustas e escaláveis utilizando o ecossistema .NET e tecnologias modernas de frontend.",
+        "description2": "Atualmente, trabalho no Governo do Rio de Janeiro, desenvolvendo sistemas críticos de vigilância sanitária que impactam diretamente a vida de milhares de pessoas. Minha expertise abrange desde a arquitetura de APIs RESTful e GraphQL até o desenvolvimento de aplicações mobile com Flutter e React Native.",
+        "description3": "Acredito que bom código é aquele que é fácil de entender, manter e escalar. Por isso, estou sempre estudando novas tecnologias e buscando aplicar as melhores práticas de desenvolvimento em cada projeto.",
+        "highlights": {
+            "cleanCode": {
+                "title": "Clean Code",
+                "description": "Código limpo, testável e bem documentado seguindo as melhores práticas"
+            },
+            "performance": {
+                "title": "Performance",
+                "description": "Foco em otimização e escalabilidade das aplicações"
+            },
+            "collaboration": {
+                "title": "Colaboração",
+                "description": "Trabalho em equipe e comunicação efetiva em projetos ágeis"
+            },
+            "quality": {
+                "title": "Qualidade",
+                "description": "Comprometimento com excelência e entrega de valor"
+            }
+        }
+    },
+    "skills": {
+        "title": "Habilidades Técnicas",
+        "subtitle": "Tecnologias e ferramentas que domino e utilizo no dia a dia",
+        "categories": {
+            "all": "Todas",
+            "backend": "Backend",
+            "frontend": "Frontend",
+            "mobile": "Mobile",
+            "database": "Database",
+            "cloud": "Cloud",
+            "tools": "Ferramentas"
+        },
+        "proficiency": "Proficiência",
+        "years": "anos",
+        "year": "ano"
+    },
+    "projects": {
+        "title": "Projetos em Destaque",
+        "subtitle": "Alguns dos projetos que desenvolvi ao longo da minha carreira",
+        "featured": "Destaque",
+        "viewCode": "Código",
+        "viewDemo": "Demo",
+        "private": "Projeto Privado",
+        "viewAll": "Ver Todos",
+        "viewLess": "Ver Menos",
+        "noProjects": "Nenhum projeto encontrado nesta categoria.",
+        "categories": {
+            "all": "Todos",
+            "fullstack": "Full-Stack",
+            "backend": "Backend",
+            "frontend": "Frontend",
+            "mobile": "Mobile"
+        }
+    },
+    "experience": {
+        "title": "Experiência Profissional",
+        "subtitle": "anos desenvolvendo soluções que fazem a diferença",
+        "current": "Atual",
+        "achievements": "Principais Conquistas:",
+        "technologies": "Tecnologias Utilizadas:",
+        "downloadCV": "Baixar Currículo Completo",
+        "stats": {
+            "years": "Anos de Experiência",
+            "companies": "Empresas",
+            "projects": "Projetos",
+            "technologies": "Tecnologias"
+        }
+    },
+    "theme": {
+        "toggle": "Alternar tema",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "language": {
+        "change": "Mudar idioma"
+    }
+}

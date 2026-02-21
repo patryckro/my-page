@@ -1,0 +1,102 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "experience": "Experience",
+        "contact": "Contact"
+    },
+    "hero": {
+        "greeting": "Hello, my name is",
+        "name": "Patryck Moulaz",
+        "title": "Full-Stack .NET Developer",
+        "description": "Specialized in creating scalable and robust solutions. Currently developing government compliance and health surveillance systems in Rio de Janeiro.",
+        "viewProjects": "View Projects",
+        "contact": "Get in Touch",
+        "downloadCV": "Download CV",
+        "scrollDown": "Scroll down"
+    },
+    "about": {
+        "title": "About Me",
+        "subtitle": "Learn more about my journey and experience",
+        "description1": "I am a full-stack developer passionate about technology and solving complex problems. With over 5 years of experience, I have been building robust and scalable solutions using the .NET ecosystem and modern frontend technologies.",
+        "description2": "Currently, I work for the Rio de Janeiro Government, developing critical health surveillance systems that directly impact the lives of thousands of people. My expertise ranges from RESTful and GraphQL API architecture to mobile application development with Flutter and React Native.",
+        "description3": "I believe that good code is easy to understand, maintain, and scale. That's why I'm always studying new technologies and seeking to apply development best practices in every project.",
+        "highlights": {
+            "cleanCode": {
+                "title": "Clean Code",
+                "description": "Clean, testable and well-documented code following best practices"
+            },
+            "performance": {
+                "title": "Performance",
+                "description": "Focus on optimization and application scalability"
+            },
+            "collaboration": {
+                "title": "Collaboration",
+                "description": "Teamwork and effective communication in agile projects"
+            },
+            "quality": {
+                "title": "Quality",
+                "description": "Commitment to excellence and value delivery"
+            }
+        }
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "subtitle": "Technologies and tools I master and use daily",
+        "categories": {
+            "all": "All",
+            "backend": "Backend",
+            "frontend": "Frontend",
+            "mobile": "Mobile",
+            "database": "Database",
+            "cloud": "Cloud",
+            "tools": "Tools"
+        },
+        "proficiency": "Proficiency",
+        "years": "years",
+        "year": "year"
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "subtitle": "Some of the projects I've developed throughout my career",
+        "featured": "Featured",
+        "viewCode": "Code",
+        "viewDemo": "Demo",
+        "private": "Private Project",
+        "viewAll": "View All",
+        "viewLess": "View Less",
+        "noProjects": "No projects found in this category.",
+        "categories": {
+            "all": "All",
+            "fullstack": "Full-Stack",
+            "backend": "Backend",
+            "frontend": "Frontend",
+            "mobile": "Mobile"
+        }
+    },
+    "experience": {
+        "title": "Professional Experience",
+        "subtitle": "years developing solutions that make a difference",
+        "current": "Current",
+        "achievements": "Key Achievements:",
+        "technologies": "Technologies Used:",
+        "downloadCV": "Download Full Resume",
+        "stats": {
+            "years": "Years of Experience",
+            "companies": "Companies",
+            "projects": "Projects",
+            "technologies": "Technologies"
+        }
+    },
+    "theme": {
+        "toggle": "Toggle theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "language": {
+        "change": "Change language"
+    }
+}
