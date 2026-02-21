@@ -9,6 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/my-page',
 };
 
 module.exports = withNextIntl(nextConfig);

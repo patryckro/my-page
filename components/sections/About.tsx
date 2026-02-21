@@ -45,7 +45,7 @@ export default function About() {
                             <div className="absolute inset-0 bg-primary/20 rounded-2xl blur-2xl" />
                             <div className="relative aspect-square rounded-2xl overflow-hidden border-2 border-primary/20">
                                 <Image
-                                    src="/images/profile.png"
+                                    src="/my-page/images/profile.png"
                                     alt="Patryck Moulaz"
                                     fill
                                     className="object-cover"
