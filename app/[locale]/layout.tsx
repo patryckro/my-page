@@ -2,12 +2,11 @@ import '../globals.css';
 import type { Metadata } from 'next';
 import { Inter, JetBrains_Mono } from 'next/font/google';
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, setRequestLocale } from 'next-intl/server';
 import { ThemeProvider } from '@/components/providers/theme-provider';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import { notFound } from 'next/navigation';
-import { log } from 'console';
 
 const inter = Inter({
     subsets: ['latin'],
@@ -61,7 +60,9 @@ export default async function LocaleLayout({
 }) {
     // Validate locale
     const { locale } = await params;
-    log('Received locale:', locale);
+
+    setRequestLocale(locale);
+
     if (!locales.includes(locale)) {
         notFound();
     }
